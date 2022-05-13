@@ -1,6 +1,6 @@
-### Hellow
+### Hello
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:FF9603&height=100&section=header&text=Yi%20Hyun's%20GIT&animation=scaleIn&fontSize=60&fontAlign=30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:00012b,100:000000&height=100&section=header&text=Yi%20Hyun's%20GIT&animation=scaleIn&fontColor=ffbb00&fontSize=60&fontAlign=30)
 
 
 <!-- 출처 : https://github.com/kyechan99/capsule-render#how-to-use 
@@ -10,7 +10,7 @@ text에 %20 는 띄어쓰기
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuYiHyun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuYiHyun&show_icons=true&theme=vision-friendly-dark)
 
 
 
